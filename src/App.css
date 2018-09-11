@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.todo {
+  width: 40%;
+  background-color: rgba(108, 117, 125, 0.5);
+  margin: auto;
+  margin-top: 2%;
+  justify-content: space-around;
+}
+.fo {
+  justify-content: space-around;
+  text-align: center;
+  padding: 1em;
+}
+.fo button {
+  margin: 1em;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+td {
+  font-weight: bold;
+}
+tr:hover {
+  background-color: rgba(248, 51, 71, 0.904);
+  opacity: 0.7;
+}
+
+.main span i {
+  width: 40%;
+  font-size: 8em;
+  margin-bottom: 0;
+  margin-top: 10%;
+  margin-left: 43%;
+  justify-content: space-around;
+
+  color: #007bff;
+}
+.title {
+  text-align: center;
+  margin-top: 10px;
+}
